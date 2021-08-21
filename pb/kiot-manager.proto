@@ -1,0 +1,23 @@
+syntax = "proto3";
+package KiotManager;
+
+option go_package="/pb";
+
+service KiotManagerService{
+  // new account & login
+  rpc NewAccount(NewAccountReq) returns (Empty){};
+  rpc Login(Account) returns (LoginPlayerInfo){};
+  rpc InStock(InStockInfo) returns (Empty)
+}
+
+message Account{
+
+}
+
+message NewAccountReq{
+  string name =1;
+  string Username = 2;
+  string PassWord = 3;
+}
+
+message Empty{}
