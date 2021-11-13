@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T10:59:52.321Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ynQx9wUyj_YLknF6FSUg" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T11:41:51.425Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5bsZVf3xyj63xfFQfE1j" version="15.7.3" type="github">
   <diagram id="2XZN8_0mVDKEk1uRL6Ag" name="Page-1">
     <mxGraphModel dx="2406" dy="765" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -508,7 +508,7 @@
         <mxCell id="DQ6HDHODuP_AcRZR4a6Y-26" value="CONTAIN" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-596.8" y="216.00000000000003" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DQ6HDHODuP_AcRZR4a6Y-27" value="INVENTORY" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DQ6HDHODuP_AcRZR4a6Y-27" value="WAREHOUSE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-586.8" y="113.17000000000002" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DQ6HDHODuP_AcRZR4a6Y-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DQ6HDHODuP_AcRZR4a6Y-26" target="0j56gejgCdR-_kMDKY7A-196" edge="1">
